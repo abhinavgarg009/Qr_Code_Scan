@@ -1,13 +1,10 @@
-package com.aztecs.aureate2;
+package com.aztecs.qrcodeapp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
 
-import android.Manifest;
 import android.content.ClipboardManager;
 import android.content.Context;
-import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;

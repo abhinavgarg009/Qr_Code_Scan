@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aztecs.aureate2">
+    package="com.aztecs.qrcodeapp">
 
     <uses-permission android:name="android.permission.CAMERA" />
 
@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Aureate2">
         <activity
-            android:name=".MainActivity"
+            android:name="com.aztecs.qrcodeapp.MainActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity2"
+            android:name="com.aztecs.qrcodeapp.MainActivity2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

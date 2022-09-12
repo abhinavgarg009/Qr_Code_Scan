@@ -1,4 +1,4 @@
-package com.aztecs.aureate2;
+package com.aztecs.qrcodeapp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

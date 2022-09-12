@@ -1,4 +1,4 @@
-package com.aztecs.aureate2;
+package com.aztecs.qrcodeapp;
 
 import org.junit.Test;
 
